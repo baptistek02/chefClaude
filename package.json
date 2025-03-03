@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@huggingface/inference": "^3.4.1",
     "react": "^19.1.0-canary-9b62ee71-20250122",
-    "react-dom": "^19.1.0-canary-9b62ee71-20250122"
+    "react-dom": "^19.1.0-canary-9b62ee71-20250122",
+    "react-markdown": "^8.0.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
